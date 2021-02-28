@@ -1,0 +1,13 @@
+
+h1 
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background:url("bg1.jpg") ;
+}
+
+#my_canvas{
+  background:white ;
+}
